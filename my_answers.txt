@@ -1,0 +1,4 @@
+I type this text because i need to add a file to the directory to add and commit 
+
+for the third exercise i need to add some new lines to this file 
+so hereby some new lines
